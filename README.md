@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Talha</h1>
-<h3 align="center">Software Engineer Intern | Full-Stack Engineering</h3>
+<h3 align="center">Software Engineer Intern | Full-Stack </h3>
 
 ---
 
