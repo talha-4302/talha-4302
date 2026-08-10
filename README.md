@@ -6,7 +6,7 @@
 ### About Me
 - Building softwares end-to-end with **Node.js/Express, NextJs, React, MySQL, and Payload CMS**
 - AI era mindset - Adopting AI from software development to day-to-day use.
-- Research in **NLP Domain** — Audio and Text based dialect conversion using fine-tuned LLMs
+- Research in **NLP Domain** - Audio and Text based dialect conversion using fine-tuned LLMs
 - B.Sc. in **Computer Science & Engineering** from Daffodil International University (CGPA 3.85)
 
 ---
