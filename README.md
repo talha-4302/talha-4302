@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Talha</h1>
-<h3 align="center">AI-native Full Stack Engineer</h3>
+<h3 align="center">AI-native Full Stack Engineer | Brainstation-23</h3>
 
 ---
 
